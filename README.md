@@ -9,7 +9,7 @@ travis, circleci or any other.
 This package exists because clojurescript does not provides something like this out of the
 box. And printing results in console is not really useful.
 
-Additionally, this package provides slightly more compact.
+Additionally, this package provides slightly more compact console output.
 
 
 ## Quick Start
